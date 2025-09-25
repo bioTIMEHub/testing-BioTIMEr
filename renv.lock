@@ -54,9 +54,9 @@
       "RemoteHost": "api.github.com",
       "RemoteRepo": "biotimer",
       "RemoteUsername": "biotimehub",
-      "RemotePkgRef": "biotimehub/biotimer@97682087c2131305d148d2cadde9eaa6c4f8a526",
-      "RemoteRef": "97682087c2131305d148d2cadde9eaa6c4f8a526",
-      "RemoteSha": "97682087c2131305d148d2cadde9eaa6c4f8a526",
+      "RemotePkgRef": "biotimehub/biotimer@7111fb2d6a5373f07bd218c231a5b51bdc8df5a4",
+      "RemoteRef": "7111fb2d6a5373f07bd218c231a5b51bdc8df5a4",
+      "RemoteSha": "7111fb2d6a5373f07bd218c231a5b51bdc8df5a4",
       "NeedsCompilation": "no",
       "Author": "Alban Sagouis [aut, cre] (ORCID: <https://orcid.org/0000-0002-3827-1063>), Faye Moyes [aut] (ORCID: <https://orcid.org/0000-0001-9687-0593>), Inês S. Martins [aut, rev] (ORCID: <https://orcid.org/0000-0003-4328-7286>), Shane A. Blowes [ctb] (ORCID: <https://orcid.org/0000-0001-6310-3670>), Viviana Brambilla [ctb] (ORCID: <https://orcid.org/0000-0002-0560-4693>), Cher F. Y. Chow [ctb] (ORCID: <https://orcid.org/0000-0002-1020-8409>), Ada Fontrodona-Eslava [ctb] (ORCID: <https://orcid.org/0000-0001-7275-7174>), Laura Antão [ctb, rev] (ORCID: <https://orcid.org/0000-0001-6612-9366>), Jonathan M. Chase [fnd] (ORCID: <https://orcid.org/0000-0001-5580-4303>), Maria Dornelas [fnd, cph] (ORCID: <https://orcid.org/0000-0003-2077-7055>), Anne E. Magurran [fnd] (ORCID: <https://orcid.org/0000-0002-0036-2795>), European Research Council grant AdG BioTIME 250189 [fnd], European Research Council grant PoC BioCHANGE 727440 [fnd], European Research Council grant AdG MetaCHANGE 101098020 [fnd], The Leverhulme Centre for Anthropocene Biodiversity grant RC-2018-021 [fnd]"
     },
