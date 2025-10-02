@@ -15,3 +15,6 @@ renv::restore()
 ### Data
 A specific version of the BioTIME data set is downloaded in the
 `/1_downloading_BioTIME.R` script.
+
+## Benchmarking
+All runs were exectued on a Macbook Pro with a M1 Pro chip and 32Gb RAM.
